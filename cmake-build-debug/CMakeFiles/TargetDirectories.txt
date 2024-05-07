@@ -1,0 +1,3 @@
+C:/Users/Slaf/CLionProjects/furlihsa/cmake-build-debug/CMakeFiles/furlihsa.dir
+C:/Users/Slaf/CLionProjects/furlihsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Slaf/CLionProjects/furlihsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
